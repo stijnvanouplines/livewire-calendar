@@ -23,3 +23,4 @@ Available parameters:
 - [Laravel ](https://laravel.com/)
 - [Laravel Livewire](https://laravel-livewire.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Heroicons UI](https://github.com/sschoger/heroicons-ui)
