@@ -1,7 +1,9 @@
 # A calendar build with Laravel Livewire
 Example of a calendar with Laravel Livewire
 
-![Screenshot](screenshot.png)
+<p align="center">
+  <img width="550" height="385" src="https://github.com/stijnvanouplines/livewire-calendar/raw/master/screenshot.png">
+</p>
 
 ## Usage
 ```
