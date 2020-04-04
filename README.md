@@ -1,6 +1,8 @@
 # A calendar build with Laravel Livewire
 Example of a calendar with Laravel Livewire
 
+![Screenshot](screenshot.png)
+
 ## Usage
 ```
 @livewire('calendar')
